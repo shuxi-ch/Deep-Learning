@@ -1,0 +1,2 @@
+RNN/training_checkpoints_SimpleRNN/*.h5 filter=lfs diff=lfs merge=lfs -text
+Transformer/**/*.safetensors filter=lfs diff=lfs merge=lfs -text
