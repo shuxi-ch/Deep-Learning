@@ -17,6 +17,6 @@ checkpoints/
 *.pth
 
 # Logs
-logs/
+!logs/
 tensorboard_logs/
             
